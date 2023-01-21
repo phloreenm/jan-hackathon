@@ -16,6 +16,10 @@ Users need to enter their income, select their percentage ratio and the finance 
   - [Table of contents](#table-of-contents)
   - [UX](#ux)
     - [User Stories](#user-stories)
+      - [Primary Goals:](#primary-goals)
+      - [Secondary Goals:](#secondary-goals)
+      - [Tertiary Goals:](#tertiary-goals)
+  - [Back to top](#back-to-top)
     - [Wireframes](#wireframes)
     - [Database schema](#database-schema)
     - [Style and colours](#style-and-colours)
@@ -162,6 +166,10 @@ Testing was done...
 ---
 
 ## Credits
+- Currency symbols:
+  - [USD](https://www.cleanpng.com/png-dollar-sign-png-50976/download-png.html)
+  - [GBP](https://www.pngegg.com/en/png-tqwhd/download)
+  - [EUR](https://www.pngegg.com/en/png-ntkwk/download)
 
 ### Content
 

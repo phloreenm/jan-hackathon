@@ -1,5 +1,9 @@
 // Auto initialize all Materialize CSS Components
-M.AutoInit();
+// M.AutoInit();
+// The following code is used to initialize the forms.
+// $(document).ready(function(){
+//     $('select').formSelect();
+//   });
 
 // Assigns the variables, will eventually be moved to a input from the user.
 var chartID = "spending";

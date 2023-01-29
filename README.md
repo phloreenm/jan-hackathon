@@ -1,14 +1,16 @@
 This project was submited in the Code Institute Hackathon contest of January 2023 and it won 1st place.
-**Savvy Savers** Team (alphabetically):
-- [Abbie D.](https://github.com/abz2489) [LinkedIn](https://www.linkedin.com/in/abbie-davies-32286bb2)
-- [Dayana N.](https://github.com/Dayana-N) [LinkedIn](https://www.linkedin.com/in/dayana-nashkova-b46463165/)
-- [Dennis C.](https://github.com/CallumDennisIE) [LinkedIn](https://www.linkedin.com/in/callum-dennis-ireland/)
-- [Florin M.](https://github.com/phloreenm) [LinkedIn](https://www.linkedin.com/in/phloreen/)
-- [Jennifer H.](https://github.com/hhw1101) [LinkedIn](https://www.linkedin.com/in/jennifer-huang-6a7a55197)
-- [Maria M.I.](https://github.com/mariamar95) [LinkedIn](https://www.linkedin.com/in/maria-markou-inglis/)
-- [Michelle H.](https://github.com/MHickey2) [LinkedIn](https://www.linkedin.com/in/michellehickey1/)
-- [Nathan P.](https://github.com/Nap199I) [LinkedIn](https://www.linkedin.com/in/nathan-parry-3ab63a111/)
-[Team's page](https://hackathon.codeinstitute.net/teams/267/)
+
+- **Savvy Savers** Team (alphabetically):
+  - [Abbie D.](https://github.com/abz2489) - [LinkedIn](https://www.linkedin.com/in/abbie-davies-32286bb2)
+  - [Dayana N.](https://github.com/Dayana-N) - [LinkedIn](https://www.linkedin.com/in/dayana-nashkova-b46463165/)
+  - [Dennis C.](https://github.com/CallumDennisIE) - [LinkedIn](https://www.linkedin.com/in/callum-dennis-ireland/)
+  - [Florin M.](https://github.com/phloreenm) - [LinkedIn](https://www.linkedin.com/in/phloreen/)
+  - [Jennifer H.](https://github.com/hhw1101) - [LinkedIn](https://www.linkedin.com/in/jennifer-huang-6a7a55197)
+  - [Maria M.I.](https://github.com/mariamar95) - [LinkedIn](https://www.linkedin.com/in/maria-markou-inglis/)
+  - [Michelle H.](https://github.com/MHickey2) - [LinkedIn](https://www.linkedin.com/in/michellehickey1/)
+  - [Nathan P.](https://github.com/Nap199I) - [LinkedIn](https://www.linkedin.com/in/nathan-parry-3ab63a111/)
+  - 
+- [Team's page](https://hackathon.codeinstitute.net/teams/267/)
                                      
 <blockquote class="badgr-badge" style="font-family: Helvetica, Roboto, &quot;Segoe UI&quot;, Calibri, sans-serif;"><a href="https://api.eu.badgr.io/public/assertions/UaEzGrt-REOAjgmQh-hzRw"><img src="https://api.eu.badgr.io/public/assertions/UaEzGrt-REOAjgmQh-hzRw/image" width="120px" height="120px"></a><p class="badgr-badge-name" style="hyphens: auto; overflow-wrap: break-word; word-wrap: break-word; margin: 0; font-size: 16px; font-weight: 600; font-style: normal; font-stretch: normal; line-height: 1.25; letter-spacing: normal; text-align: left; color: #05012c;">January 2023 Hackathon: 1st Place</p><p class="badgr-badge-date" style="margin: 0; font-size: 12px; font-style: normal; font-stretch: normal; line-height: 1.67; letter-spacing: normal; text-align: left; color: #555555;"><strong style="font-size: 12px; font-weight: bold; font-style: normal; font-stretch: normal; line-height: 1.67; letter-spacing: normal; text-align: left; color: #000;">Awarded: </strong>24 Jan 2023</p><p class="badgr-badge-recipient" style="margin: 0; font-size: 12px; font-style: normal; font-stretch: normal; line-height: 1.67; letter-spacing: normal; text-align: left; color: #555555;"><strong style="font-size: 12px; font-weight: bold; font-style: normal; font-stretch: normal; line-height: 1.67; letter-spacing: normal; text-align: left; color: #000;">Awarded To: </strong><span style="display: block;"> Florin Maracine</span></p><p style="margin: 16px 0; padding: 0;"></blockquote>
 
